@@ -1,6 +1,6 @@
 # Project 5 - *Name of App Here*
 
-Submitted by: **Casey CHin**
+Submitted by: **Casey Chin**
 
 **Name of your app** is an app that ... [TODO] 
 
@@ -29,7 +29,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 [Guide](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
-
+https://giphy.com/gifs/XD2MlyN9vIZDHGBs6Z
 
 ## Notes
 
