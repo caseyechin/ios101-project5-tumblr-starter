@@ -1,10 +1,10 @@
-# Project 5 - *Name of App Here*
+# Project 5 - *Fake Tumbler*
 
 Submitted by: **Casey Chin**
 
-**Name of your app** is an app that ... [TODO] 
+**Fake Tumbler** is an app that kind of shows posts from tumblr.
 
-Time spent: **X** hours spent in total
+Time spent: **1.5** hours spent in total
 
 ## Required Features
 
